@@ -6,3 +6,4 @@ def sub(a,b):
     return a-b
 sum=add(a,b)
 diff=sub(a,b)
+print(sum)
