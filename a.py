@@ -1,3 +1,1 @@
-print("1")
-print("a")
-print("w")
+a=3
